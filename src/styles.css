@@ -1,7 +1,7 @@
 .center {
     margin: auto auto auto auto ;
     width: 40%;
-    padding: 10px;
+    padding: 1em;
 }
 
 .menu {
@@ -11,12 +11,47 @@
     margin: auto auto auto auto;
     text-align: center;
     border: 3px solid black;
-    height: 30px;
+    height: 2em;
     font-weight: bold;
 }
 
 .menu a {
     color: black;
     text-decoration: none;
+}
+
+.container {
+    display: grid;
+    gap: 10px;
+    column-gap: 20px;
+    row-gap: 20px 20px;
+    justify-items: center;
+    height: 12em;
+}
+
+#main_content {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2fr 1fr;
+    grid-template: "promotion"
+                    "info info info";
+}
+
+#footer_content{
+    grid-template-columns: 1fr 1fr;
+    grid-template: "logo content";
+}
+
+.promotion {
+    grid-column: 1/ span 3;
+}
+
+main {
+
+    padding: 2em;
+}
+
+footer {
+
+    padding: 1em;
 }
 

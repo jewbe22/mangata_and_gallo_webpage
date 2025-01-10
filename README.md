@@ -6,8 +6,8 @@ The overall layout is as follows:
 
 This project includes several phases as follows:
 
-Phase 1:  (Done)
-Complete overall page design.
+Phase 1:  (Done) \n
+Complete overall page design. \n
 ![image](https://github.com/user-attachments/assets/0871ee7f-91ed-42ab-8815-47d2c5a55b5f)
 
 

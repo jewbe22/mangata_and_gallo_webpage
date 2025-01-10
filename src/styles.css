@@ -2,7 +2,7 @@
 
 html {
     background-color: rgb(182, 182, 174);
-    width: 70%;
+    width: 75vw;
     margin-left: auto;
     margin-right: auto;
 }
@@ -26,6 +26,11 @@ footer > div {
 }
 .main-logo {
     text-align: center;
+}
+
+.main-logo img {
+    width: 25vw;
+    margin-top: 5vh;
 }
 
 

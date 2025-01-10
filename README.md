@@ -11,7 +11,9 @@ This project includes several phases as follows:
 ### Phase 1:     
 Complete overall page design.   
 ![image](https://github.com/user-attachments/assets/1dd68549-ebd0-4b23-91a4-61c771621ae4)
-
+Features:   
+1. "HOME PAGE" button
+2. magnification animation for info sections upon mouse-over.
 - - -
 
 

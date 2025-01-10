@@ -10,7 +10,8 @@ This project includes several phases as follows:
 
 ### Phase 1:     
 Complete overall page design.   
-![image](https://github.com/user-attachments/assets/0871ee7f-91ed-42ab-8815-47d2c5a55b5f)   
+![image](https://github.com/user-attachments/assets/1dd68549-ebd0-4b23-91a4-61c771621ae4)
+
 - - -
 
 

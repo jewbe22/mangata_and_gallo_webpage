@@ -24,11 +24,11 @@ footer{
 footer > div {
     text-align: right;
 }
-.main-logo {
+header {
     text-align: center;
 }
 
-.main-logo img {
+header img {
     width: 25vw;
     margin-top: 5vh;
 }
@@ -48,14 +48,14 @@ footer > div {
     display: table;
     table-layout: fixed;
 }
-.navigation > ul > li{
+.navigation li{
     width: 100%; 
     list-style-type:none; 
     display:table-cell;
     text-align: center;
 
 }
-.navigation li a{
+.navigation a{
     float: left;
     text-decoration: none;
     color: black;
@@ -67,7 +67,7 @@ footer > div {
 }
 
 
-.main-contents {
+main {
     display: grid;
     grid-template-rows: auto auto;
     vertical-align: middle;
@@ -98,9 +98,9 @@ footer > div {
     list-style: none;
     text-align: left;
 }
- .info h2 {
+.info h2 {
     margin-left: 5%;
- }
+}
 
 .promotion {
     text-align: center;
